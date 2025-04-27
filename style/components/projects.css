@@ -29,6 +29,7 @@
     max-width: 47rem;
     min-width: 40rem;
     height: auto;
+    border-radius: 5%;
 }
 
 .projects ul li .projects__info{
